@@ -1,4 +1,4 @@
-**Project Title **: Customer Churn Analysis and Prediction
+Project Title : Customer Churn Analysis and Prediction
 
 **Short Description / Purpose**
 This report involves analyzing customer behavior and historical data to identify patterns that lead to customer attrition, and using predictive models to forecast which customers are likely to churn. This helps businesses take proactive actions to improve retention and reduce revenue loss.
